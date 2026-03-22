@@ -1,0 +1,11 @@
+{
+  "owner": "a5huynh",
+  "slug": "universal-checkout",
+  "displayName": "Zinc Universal Checkout",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1770856738953,
+    "commit": "https://github.com/openclaw/skills/commit/1b17876186f75ea1ae21225c6a24e2387ebef1e9"
+  },
+  "history": []
+}
